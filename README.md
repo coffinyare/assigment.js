@@ -1,5 +1,7 @@
 # assigment.js
 #id c1211017
+
+
 Annual Target Distribution Calculator (Excluding Fridays)
 This Node.js script allows users to calculate the total number of working days between two dates, excluding Fridays, and proportionally distribute a given annual target across those days. It provides a user-friendly command-line interface for entering dates and targets, helping users allocate their annual targets based on actual working days.
 
