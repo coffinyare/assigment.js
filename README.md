@@ -1,5 +1,9 @@
 # assigment.js
 #id c1211017
+# name : mohamed warsaame mohamuud
+
+
+
 
 
 Annual Target Distribution Calculator (Excluding Fridays)
